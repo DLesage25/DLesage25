@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [building software products at PartnerHero.](https://partnerhero.com)
 
-- 🌱 I’m currently learning **kubernetes and remixJS.**
+- 🌱 I’m learning **kubernetes and remixJS.**
 
 - 📄 One fun project that I'm working on is [tuple, a time-banking inspired exchange platform.](https://github.com/DLesage25/tuple-mono)
 
