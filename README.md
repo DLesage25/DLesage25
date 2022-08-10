@@ -1,11 +1,11 @@
 <h1 align="center">Hola, I'm Daniel.</h1>
 <h3 align="center">A full-stack developer inspired by the intersection of technology, art, and people.</h3>
 
+- 💬 Ask me about **nodeJS, microservice architecture design, react, typescript, nextjs, nestjs, and GCP.**
+
 - 🔭 I’m currently working on [building software products at PartnerHero.](https://partnerhero.com)
 
 - 🌱 I’m learning **kubernetes and remixJS.**
-
-- 💬 Ask me about **nodeJS, microservice architecture design, react, typescript, nextjs, nestjs, and GCP.**
 
 - 📄 One fun project that I'm working on is [tuple, a time-banking inspired exchange platform.](https://github.com/DLesage25/tuple-mono)
 
