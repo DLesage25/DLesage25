@@ -5,11 +5,11 @@
 
 - 🌱 I’m learning **kubernetes and remixJS.**
 
+- 💬 Ask me about **nodeJS, microservice architecture design, react, typescript, nextjs, nestjs, and GCP.**
+
 - 📄 One fun project that I'm working on is [tuple, a time-banking inspired exchange platform.](https://github.com/DLesage25/tuple-mono)
 
 - 👨‍💻 Visit me @ [https://daniellesage.com](https://daniellesage.com)
-
-- 💬 Ask me about **nodeJS, microservice architecture design, react, typescript, nextjs, nestjs, and GCP.**
 
 - 📫 Contact me @ **me@daniellesage.com**
 
