@@ -1,5 +1,11 @@
-<h1 align="center">Hola, I'm Daniel.</h1>
-<h3 align="center">A full-stack developer inspired by the intersection of technology, art, and people.</h3>
+<h1 align="center">Hello</h1>
+
+<h3 align="center">I'm full-stack developer inspired by the intersection of technology, art, and people.</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/daniel-lesage25" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+
 
 - 💬 Ask me about **nodeJS, microservice architecture design, react, typescript, nextjs, nestjs, and GCP.**
 
