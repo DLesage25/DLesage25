@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **nodeJS, microservice architecture design, react, typescript, nextjs, nestjs, and GCP.**
 
-- 🔭 I’m currently [building software products at PartnerHero.](https://partnerhero.com)
-
-- 📄 One fun project that I'm working on is [tuple, a time-banking inspired exchange platform.](https://github.com/DLesage25/tuple-mono)
+- 🔭 I’m currently building [EclipseJS](https://eclipsejs.io), an environment manager that removes the need for local environment files.
 
 - 👨‍💻 Visit me @ [https://daniellesage.com](https://daniellesage.com)
 
