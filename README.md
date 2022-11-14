@@ -7,7 +7,7 @@
 </p>
 
 
-- 💬 Ask me about **nodeJS, microservice architecture design, react, typescript, nextjs, nestjs, and GCP.**
+- 💬 Ask me about **web architecture, react, typescript, server-side rendering, go, and CLI tool development.**
 
 - 🔭 I’m currently building [EclipseJS](https://eclipsejs.io), an environment manager that removes the need for local environment files.
 
